@@ -68,6 +68,7 @@ body {
 .section-one__title {
     color: var(--bright-yellow);
     margin-bottom: 1.4rem;
+    font-size: 1.7rem;
 }
 
 .section-one__text {
